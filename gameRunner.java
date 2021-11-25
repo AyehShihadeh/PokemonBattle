@@ -63,7 +63,7 @@ public class gameRunner {
 
 
                         System.out.println("...BATTLE STARTING...");
-                        System.out.println("TRAINER ROREY CHOSE " + primape.getPokeName());
+                        System.out.println("TRAINER THOMAS CHOSE " + primape.getPokeName());
                         System.out.println("GO! " + fearow.getPokeName() + "!");
 
                     
@@ -192,7 +192,7 @@ public class gameRunner {
                     }
 
                     System.out.println("...BATTLE STARTING...");
-                    System.out.println("TRAINER ROREY CHOSE " + fearow.getPokeName());
+                    System.out.println("TRAINER THOMAS CHOSE " + fearow.getPokeName());
                     System.out.println("GO! " + primape.getPokeName() + "!");
 
                     do{
